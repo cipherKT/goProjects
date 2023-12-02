@@ -1,0 +1,11 @@
+non-pointer values : 
+    strings 
+    ints
+    floats
+    booleans 
+    arrays 
+    structs 
+pointer wrapper values : 
+    slices 
+    maps 
+    functions
